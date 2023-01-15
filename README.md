@@ -11,8 +11,8 @@ Skilled with Selenium with Java and C#, Skilled with Cypress with JavaScript, AP
 
 
 - 📫 How to connect with me
-Email: talk2emmzy@gmail.com
-Skype: live:.cid.8ccf772afa65a032
+Email: talk2emmzy@gmail.com || 
+Skype: live:.cid.8ccf772afa65a032 || 
 Phone Number: +2349011916606 , +2347039668722
 
 <!---
