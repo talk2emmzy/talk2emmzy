@@ -11,9 +11,9 @@ Skilled with Selenium with Java and C#, Skilled with Cypress with JavaScript, AP
 
 
 - 📫 How to connect with me
-Email: talk2emmzy@gmail.com || 
+Email: talk2emmzy@gmail.com , okoyelisbon@gmail.com || 
 Skype: live:.cid.8ccf772afa65a032 || 
-Phone Number: +2349011916606 , +2347039668722
+Mobile: +351920414847
 
 <!---
 talk2emmzy/talk2emmzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
